@@ -1,9 +1,9 @@
 # Machine Learning using PySpark and MLLib
 
-![PySpark Logo](pyspark_logo.png)
-
 ## Description
 This repository contains a Jupyter Notebook that implements machine learning models for big data using Apache Spark and MLLib. The project focuses on working with a car dataset extracted from AutoDealerData.com, which is available at [Kaggle](https://www.kaggle.com/datasets/cisautomotiveapi/large-car-dataset). The dataset consists of various features that are important for buying/selling cars. The main objective of this project is to predict the MSRP (Manufacturer's Suggested Retail Price) of the cars based on these features.
+
+![PySpark Logo](https://github.com/kajolshah310/Machine-Learning-using-PySpark-and-MLLib/blob/main/pyspark.png)
 
 The notebook showcases the following:
 - Data visualization and exploration to gain insights into the car dataset
